@@ -35,7 +35,7 @@ a {
 header {
   position: relative;
   margin-bottom: 5.56vw;
-  background: #293746 url("IMG/background-fullsize.jpg");
+  background: #293746 url("img/background-fullsize.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -148,7 +148,7 @@ ul li {
   background-color: #f2f2f2;
   color: #283645;
 }
-.features h1 {
+.features h2 {
   margin-bottom: 5.42vw;
   font-weight: 300;
   font-size: 3.19vw;
